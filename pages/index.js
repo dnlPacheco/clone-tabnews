@@ -1,7 +1,8 @@
 
 function Home() {
     return(
-        <h1>Título</h1>
+        <h1>Título :)</h1>
+        
     )
 }
 
